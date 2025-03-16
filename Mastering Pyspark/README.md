@@ -36,7 +36,7 @@ Welcome to my **30 Days of PySpark** journey! 🎉 Each day, I explored differen
 | 📅 Day 27 | PySpark Window Functions Part 4        | [Day 27: Window Functions Part 4](Day%2027%3A%20Pyspark%20Window%20Functions%20Part4/Day%2027_%20Pyspark%20Window%20Functions%20Part4.ipynb) |
 | 📅 Day 28 | PySpark Explode vs Explode Outer        | [Day 28: Explode vs Explode Outer](Day%2028%3A%20Pyspark%20Explode%20vs%20Explode%20Outer/Day%2028_%20Pyspark%20Explode%20vs%20Explode%20Outer.ipynb) |
 | 📅 Day 29 | PySpark Pivot Function                  | [Day 29: Pivot Function](Day%2029%3A%20Pyspark%20Pivot%20Function/Day%2029_%20Pyspark%20Pivot%20Function.ipynb) |
-| 📅 Day 30 | PySpark Pivot Function (Again)          | [Day 30: Pivot Function](Day%2030%3A%20Pyspark%20Pivot%20Function/Day%2030_%20Pyspark%20Pivot%20Function.ipynb) |
+| 📅 Day 30 | PySpark Unpivot Function          | [Day 30: Pivot Function](Day%2030%3A%20Pyspark%20Unpivot%20Function/Day%2030_%20Pyspark%20Unpivot%20Function.ipynb) |
 
 ---
 
